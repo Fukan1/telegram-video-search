@@ -1,0 +1,35 @@
+# Runtime account data and private configuration
+data/
+thumbnails/
+*.session*
+*.sqlite*
+*.db
+*.db-*
+*.dpapi
+desktop.json
+preferences.json
+preferences.tmp
+settings.*
+.env
+.env.*
+*.pem
+*.key
+*.log
+
+# Local environments, generated binaries and screenshots
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+release/
+*.exe
+*.dll
+*.zip
+*.png
+*.jpg
+*.jpeg
+.pytest_cache/
+.idea/
+.vscode/

@@ -1,0 +1,4 @@
+Telethon==1.45.0
+PySide6-Essentials==6.11.2
+python-socks[asyncio]==2.8.2
+qrcode==8.2
